@@ -18,7 +18,7 @@ Root of this project is https://github.com/iOpenInterconnect/ihub-cli
 
 Main repo of this project is https://github.com/iOpenInterconnect/tui
 ```
-> A TUI specifically designed to work in termina*
+> A TUI specifically designed to work in terminal
 > Easy, lightweight, yet beautiful
 > Build your own Hub with customizable windows and startup applications
 ```
