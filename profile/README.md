@@ -16,12 +16,7 @@ Root of this project is https://github.com/iOpenInterconnect/ihub-cli
 > Install, uninstall and view each project
 ```
 
-Main repo of this project is https://github.com/iOpenInterconnect/tui
-```
-> A TUI specifically designed to work in terminal
-> Easy, lightweight, yet beautiful
-> Build your own Hub with customizable windows and startup applications
-```
+First project to receive it's own TUI is https://github.com/iOpenInterconnect/UxPlay-TUI
 
 Check every project available in https://github.com/iOpenInterconnect/ihub-cli
 
